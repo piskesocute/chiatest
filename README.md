@@ -1,25 +1,3 @@
-# chia-store-web
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
 登入帳號 email: 
 ```
 test@gmii.tw
@@ -34,7 +12,8 @@ gmiitest
 ```
 views/StoreManageTools/Items.vue
 ```
-功能
+
+實作功能
 ``` 
   1. 取得並列出所有商品
     a. 名稱
