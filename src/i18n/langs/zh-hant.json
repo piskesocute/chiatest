@@ -1,0 +1,30 @@
+{
+  "__language": "語言",
+  "__languagename": "中文",
+
+  "__title": "chia",
+
+  "__storemanagetools_title": "商店管理",
+  "__items_title": "所有商品",
+
+  "__sign_in": "登入",
+  "__email_address": "電子信箱",
+  "__password": "密碼",
+  "__required": "必填",
+  "__email_address_invalid": "您的電子郵件為無效，請重新輸入",
+  "__sign_out": "登出",
+
+  "__insufficient_permissions": "權限不足",
+
+  "__first_name": "名字",
+  "__last_name": "姓氏",
+  "__email": "E-Mail",
+  "__phone_number": "電話",
+
+  "__reply": "回覆",
+  "__accept": "接受",
+  "__reject": "拒絕",
+  "__description": "說明",
+  "__confirm": "確認",
+  "__cancel": "取消"
+}
